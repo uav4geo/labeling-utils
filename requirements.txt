@@ -1,1 +1,2 @@
 pillow>=11.1.0
+onnxsim>=0.4.36
